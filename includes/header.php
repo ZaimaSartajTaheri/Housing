@@ -9,8 +9,6 @@
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
     <style>
-   
-
     .navbar-brand,
     .nav-link {
         color: #41720f ;
@@ -24,6 +22,7 @@
     .nav-link {
         font-size: 17px;
     }
+   
 
     .navbar-toggler-icon {
         background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(65, 114, 15, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
@@ -34,7 +33,7 @@
 
     }
     .itemul{
-        margin-left: 36em;
+        margin-left: 70%;
     }
 
 
@@ -98,15 +97,13 @@
                     <?php }  ?>
                 </ul>
             </div>
-            <!-- </ul> -->
-            <?php
-               ?>
-
+        
 
 
 
     <!-- </div> -->
     </nav>
+    </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
